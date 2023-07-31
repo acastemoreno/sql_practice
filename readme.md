@@ -10,5 +10,7 @@ https://www.postgresqltutorial.com/postgresql-window-function/
 https://www.postgresql.org/docs/current/sql-expressions.html#SYNTAX-WINDOW-FUNCTIONS
 
 
+https://www.sql-practice.com/
+
 ## Import sql example data for practice
 `psql sql_practice < dump.sql`
